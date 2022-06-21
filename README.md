@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alvin
-- A college student from **Institute Technology Telkom Surabaya**, Electrical Engineering and Smart Industry Faculty, Computer Engineering Study Program 
+- A college student from **Institute Technology Telkom Surabaya**, Electrical Engineering and Intelligent Industry Faculty, Computer Engineering Study Program 
 ## 👀 I’m interested in:
 * Flutter development,
 * Machine Learning,
