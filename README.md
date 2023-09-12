@@ -1,15 +1,15 @@
 - 👋 Hi, I’m Alvin
-- A college student from **Institute Technology Telkom Surabaya**, Faculty of Electrical Engineering and Intelligent Industry, Computer Engineering Study Program 
+- A graduate student from **Institute Technology Telkom Surabaya** year 2021, Faculty of Electrical Engineering and Intelligent Industry, Computer Engineering Study Program 
 ## 👀 I’m interested in:
-* Flutter development,
+* Mobile development,
 * Machine Learning,
-* Front-end development,
 * Operating System.
 ## 🌱 I’m currently learning:
 * 🎯Dart language(Flutter),
 * Java,
 * HTML, CSS, PHP (Laravel),
-* Python
+* Python,
+* React-Native
 
 - 💞️ I don't have anything to collaborate on, but i always open to some suggestion for some of my future project later that i'll upload later
 ## 📫 How to reach me :
