@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alvin
-- A graduate student from **Institute Technology Telkom Surabaya** year 2021, Faculty of Electrical Engineering and Intelligent Industry, Computer Engineering Study Program 
+- A graduate student from **Institute Technology Telkom Surabaya** year 2021, Faculty of Electrical Engineering and Intelligent Industry, Computer Engineering Study Program
+- Currently working on PT. Asuransi Sinar Mas as a mobile developer, developing React-Native apps
 ## 👀 I’m interested in:
 * Mobile development,
 * Machine Learning,
